@@ -13,3 +13,6 @@ usage:
 - from source
 
         node ./logscanner.js <path>
+        
+
+to save ip addresses to file per country use the -f operator after the file path
